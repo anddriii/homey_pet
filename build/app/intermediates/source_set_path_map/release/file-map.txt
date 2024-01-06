@@ -1,0 +1,13 @@
+com.example.homey_pet.app-main-0 C:\Flutter\homey_pet\android\app\src\main\res
+com.example.homey_pet.app-release-1 C:\Flutter\homey_pet\android\app\src\release\res
+com.example.homey_pet.app-pngs-2 C:\Flutter\homey_pet\build\app\generated\res\pngs\release
+com.example.homey_pet.app-resValues-3 C:\Flutter\homey_pet\build\app\generated\res\resValues\release
+com.example.homey_pet.app-rs-4 C:\Flutter\homey_pet\build\app\generated\res\rs\release
+com.example.homey_pet.app-mergeReleaseResources-5 C:\Flutter\homey_pet\build\app\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.example.homey_pet.app-mergeReleaseResources-6 C:\Flutter\homey_pet\build\app\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.example.homey_pet.app-merged_res-7 C:\Flutter\homey_pet\build\app\intermediates\merged_res\release
+com.example.homey_pet.app-packaged_res-8 C:\Flutter\homey_pet\build\path_provider_android\intermediates\packaged_res\release
+com.example.homey_pet.app-jetified-window-java-1.0.0-beta04-9 C:\Users\LENOVO\.gradle\caches\transforms-3\128f7549c3f81d242aa9f589ae0024c0\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.homey_pet.app-core-1.6.0-10 C:\Users\LENOVO\.gradle\caches\transforms-3\6be47b444a85e07a3d357c809ce146d4\transformed\core-1.6.0\res
+com.example.homey_pet.app-jetified-window-1.0.0-beta04-11 C:\Users\LENOVO\.gradle\caches\transforms-3\af57bbf1db2f2efb49b62e9468110ecb\transformed\jetified-window-1.0.0-beta04\res
+com.example.homey_pet.app-jetified-annotation-experimental-1.1.0-12 C:\Users\LENOVO\.gradle\caches\transforms-3\d4596ac79b815af659049f699c8e05bf\transformed\jetified-annotation-experimental-1.1.0\res

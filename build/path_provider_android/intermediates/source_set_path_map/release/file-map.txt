@@ -1,0 +1,12 @@
+io.flutter.plugins.pathprovider.path_provider_android-pngs-0 C:\Flutter\homey_pet\build\path_provider_android\generated\res\pngs\release
+io.flutter.plugins.pathprovider.path_provider_android-resValues-1 C:\Flutter\homey_pet\build\path_provider_android\generated\res\resValues\release
+io.flutter.plugins.pathprovider.path_provider_android-rs-2 C:\Flutter\homey_pet\build\path_provider_android\generated\res\rs\release
+io.flutter.plugins.pathprovider.path_provider_android-mergeReleaseResources-3 C:\Flutter\homey_pet\build\path_provider_android\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.pathprovider.path_provider_android-mergeReleaseResources-4 C:\Flutter\homey_pet\build\path_provider_android\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.pathprovider.path_provider_android-merged_res-5 C:\Flutter\homey_pet\build\path_provider_android\intermediates\merged_res\release
+io.flutter.plugins.pathprovider.path_provider_android-jetified-window-java-1.0.0-beta04-6 C:\Users\LENOVO\.gradle\caches\transforms-3\128f7549c3f81d242aa9f589ae0024c0\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.pathprovider.path_provider_android-core-1.6.0-7 C:\Users\LENOVO\.gradle\caches\transforms-3\6be47b444a85e07a3d357c809ce146d4\transformed\core-1.6.0\res
+io.flutter.plugins.pathprovider.path_provider_android-jetified-window-1.0.0-beta04-8 C:\Users\LENOVO\.gradle\caches\transforms-3\af57bbf1db2f2efb49b62e9468110ecb\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.pathprovider.path_provider_android-jetified-annotation-experimental-1.1.0-9 C:\Users\LENOVO\.gradle\caches\transforms-3\d4596ac79b815af659049f699c8e05bf\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.pathprovider.path_provider_android-main-10 C:\Users\LENOVO\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_android-2.2.1\android\src\main\res
+io.flutter.plugins.pathprovider.path_provider_android-release-11 C:\Users\LENOVO\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_android-2.2.1\android\src\release\res
